@@ -1,4 +1,4 @@
-# Natours App
+# Natures App
 
 ## Introduction 🌟
 
